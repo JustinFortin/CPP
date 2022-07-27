@@ -1,0 +1,3 @@
+C:/Users/jt/source/repos/CPPWeek 1/out/build/x64-Debug (default)/CMakeFiles/JustinThomas_Lab1.dir
+C:/Users/jt/source/repos/CPPWeek 1/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/jt/source/repos/CPPWeek 1/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
